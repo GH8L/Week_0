@@ -1,29 +1,31 @@
-__Student_TODO:__  
 
-< Insert Date >
+October, 9th, 2021
 
-< Insert Name >  
+Ghaidaa Alshanqiti 
 Cohort < 1/2 >
 
 
 ## Student Career Goal Statement 
 
-   __Student_TODO:__ 
- 
-  < What is your career goal? (Think 5 year's from now) >  
-  < Which financial services or products would you like to work with? >  
-  < Which technologies do you want to contrbute to? >  
-  < Which problems or oppertunities do you want to focus on? >  
+  
+I've always seen myself as someone who works in a detailed field , one where I can be as detail-oriented as possiable.
+Allowing myself to be that person who's infatuated with their job.For me, that career path could be. Data science, it's one of the most
+unpredicted field, it's the mixture of AI and could be in fintech. and I'm grateful to know the basics in this field.
+When years pass by, I'll probably have published at least one or two research papers or a book dedicated to this field, branched out of
+computer science. And to be that scientist who they think of when data science comes to their mibd.there's so much yet to learn and to
+create hopefully I have the time and energy for it.and the rest comes with this journey.
+For fintech field i'm really intrested in modern banking/banks in general. I haven't yet seen one platfrom/technology that could manage
+more than one bank account at the same time / using AI to transfer money by dates(there  could be banks that do so / paypal has this feature i gess but for banks in saudi I haven't seen any yet) /Machine learning. 
 
 ### Student mini-CV:
 
   __Student_TODO:__
 
   - Degrees Completed:    
-        < eg: BSc Computer Science '14, MSc Computer Engineering 15', PhD Finance '21 >
+      BSc Computer Science.
   - Top 3 Technical skills:    
-        < eg: Excel, Python, Java, SQL, AWS, VBA, PowerPoint, Adobe Illustrator, etc. >
+            Python, Android , Java, SQL, PowerPoint, UI/UX  , C++  >
   - Top 3 Personal strengths:   
-       < eg: great team player, personable, professional, natural leader, reliable, hard worker, amazing sense of humor, etc. >
+            Creative thinker,leader, Great Listener, professional , Risk taker.
   - Top 3 Interests in Fintech:    
-       < eg: Algorthmic Trading, Blockchain, Smart Contracts, RegTech (regulations) , InsureTech (insurance), payments & remittence, etc >
+          Blockchain , Algorthmic Trading,Big Data  RegTech (regulations) ,cryptocurrency , payments & remittence.
