@@ -1,8 +1,7 @@
 
 October, 9th, 2021
-
 Ghaidaa Alshanqiti 
-Cohort < 1/2 >
+Cohort  1 
 
 
 ## Student Career Goal Statement 
@@ -19,12 +18,11 @@ more than one bank account at the same time / using AI to transfer money by date
 
 ### Student mini-CV:
 
-  __Student_TODO:__
-
+ 
   - Degrees Completed:    
       BSc Computer Science.
   - Top 3 Technical skills:    
-            Python, Android , Java, SQL, PowerPoint, UI/UX  , C++  >
+            Python, Android , Java, SQL, PowerPoint, UI/UX  , C++.
   - Top 3 Personal strengths:   
             Creative thinker,leader, Great Listener, professional , Risk taker.
   - Top 3 Interests in Fintech:    
