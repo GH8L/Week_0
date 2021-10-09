@@ -20,7 +20,7 @@ more than one bank account at the same time / using AI to transfer money by date
 
  
   - Degrees Completed:    
-      BSc Computer Science.
+      BSc in Computer Science.
   - Top 3 Technical skills:    
             Python, Android , Java, SQL, PowerPoint, UI/UX  , C++.
   - Top 3 Personal strengths:   
